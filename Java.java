@@ -15,6 +15,8 @@ class Java {
 		}
 		if(String == Rosa){
 			resultado = dias * 3.00;
+		}if(String == Rosa){
+			resultado = dias * 3.00;
 		}
 		printf(O resultado é "resultado")
 	}
